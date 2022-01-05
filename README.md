@@ -47,9 +47,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- htmlCheatSheet: [https://htmlcheatsheet.com/]
+- cssCheatSheet: [https://websitesetup.org/css3-cheat-sheet/]
+- fontawesome: [https://fontawesome.com/]
 
 ## 📝 License
 
