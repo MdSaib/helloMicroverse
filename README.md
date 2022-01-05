@@ -1,4 +1,4 @@
-# Project Name
+# Hello Microverse
 
  Hello Microverse. This is our very first project at microverse. In this project we need to show that, we can use git and github smoothly. We would program a html page, which text color need to be changed using css.
 
@@ -18,8 +18,6 @@ We would publish it as github pages, after it would being approved from project 
 - basic knowledge of html, css
 - working knowledge of git and github
 
-
-### Setup
 
 
 ### Install
